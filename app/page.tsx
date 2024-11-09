@@ -6,7 +6,7 @@ const Home: FC = () => {
       <div className="flex flex-col gap-4 font-medium">
         <div className="text-6xl">SpendWise</div>
         <div className="text-lg text-green-500">
-          Powered by Chrome's in-browser model (Gemini Nano)
+          {`Powered by Chrome's in-browser model (Gemini Nano)`}
         </div>
       </div>
       <div className="text-3xl/relaxed text-justify">
